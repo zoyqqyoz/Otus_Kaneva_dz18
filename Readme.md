@@ -65,7 +65,7 @@ Alias /centos8 /iso
 Created symlink /etc/systemd/system/multi-user.target.wants/httpd.service → /usr/lib/systemd/system/httpd.service.
 ```
 
-Далее проверяем доступность сервера и каталога. Скриншот1, Скриншот2.
+Далее проверяем доступность сервера и каталога. [Скриншот1](https://github.com/zoyqqyoz/Otus_Kaneva_dz18/blob/master/http1.JPG), [Скриншот2](https://github.com/zoyqqyoz/Otus_Kaneva_dz18/blob/master/http2.JPG).
 
 
 Переходим к настройке TFTP-сервера. Устанавливаем tftp-сервер и запускаем службу:
